@@ -1,2 +1,11 @@
 
 Arithmatic operators
+
+
+Logical
+Relational
+Bitwise
+unary
+
+
+thank you :)
